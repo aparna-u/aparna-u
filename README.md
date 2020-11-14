@@ -1,5 +1,7 @@
 ![cover](https://user-images.githubusercontent.com/36874105/99150821-2ec0e500-26bd-11eb-8656-53b589074139.png)
 
+<hr>
+
 ### Hello Friends,  :smiley:
 
 <!--
@@ -15,6 +17,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Python Platform**
 - 💬 Ask me about **anything**
 
+<hr>
+
 <details>
 <summary>
 <i><b>GitHub Stats</b></i>
@@ -23,6 +27,8 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=aparna-u&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515">
 
 </details>
+
+<hr>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparna-u&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
 
