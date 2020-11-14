@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 -->
 <hr>
 
-![](https://komarev.com/ghpvc/?username=aparna-u&color=blueviolet&style=flat-square)
+![Visitor Count](https://profile-counter.glitch.me/{aparna-u}/count.svg)
 
 
 
