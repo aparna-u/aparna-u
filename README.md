@@ -69,6 +69,9 @@ Here are some ideas to get you started:
 <a href="aparnaukumar@gmail.com" rel="nofollow">
 <img src="https://camo.githubusercontent.com/36e8ddc2cc525629d5b25538fbd4a1ac43498b4dd3093b46eaddc98637a22210/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d6331343433383f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" class="padding">
 </a>
+<br>
+<br>
+<img src="https://profile-counter.glitch.me/{aparna-u}/count.svg" class="padding">
 
 </p>
 </div>
